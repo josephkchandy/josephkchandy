@@ -46,22 +46,6 @@ An ESP32-based rescue prototype designed for operation in narrow borewells.
 * Used an L298N motor driver with a geared motor
 * Developed a winch-and-rope mechanism for controlled lowering and retrieval
 
-## Achievements
-
-### Kaspersky CTF 2025
-
-* Placed **8th among 719 teams in Asia**
-* Placed **3rd among Indian teams**
-* Competed as a member of Team MCSC
-* Solved challenges involving reverse engineering, web security, cryptography, and digital forensics
-
-[View Achievement](https://mgmits.ac.in/cc-awards/8th-position-in-kaspersky-ctf-2025)
-
-### TinkerHub Useless Projects Hackathon
-
-* Secured a **Top 10 finish among 32 teams**
-* Built a reaction-based prototype using Python facial-movement recognition and Flutter
-* Classified items as accepted or rejected based on users' reactions
 
 ## Technologies
 
@@ -85,13 +69,6 @@ An ESP32-based rescue prototype designed for operation in narrow borewells.
 
 `Reverse Engineering` `Web Security` `Cryptography` `Digital Forensics`
 
-## Certification
-
-**Supervised Machine Learning: Regression and Classification**
-
-DeepLearning.AI and Stanford University course taught by Andrew Ng through Coursera.
-
-[View Certificate](https://www.coursera.org/account/accomplishments/verify/HBVDQB9MR9CN)
 
 ## Connect With Me
 
