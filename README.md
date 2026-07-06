@@ -6,7 +6,6 @@ I primarily work with Python and build projects using FastAPI, React, PyTorch, O
 
 ## About Me
 
-* B.Tech Computer Science and Engineering student at Muthoot Institute of Technology and Science
 * Interested in backend engineering, machine learning, AI-assisted developer tools, and cybersecurity
 * Placed **8th among 719 teams in Asia** and **3rd among Indian teams** at Kaspersky CTF 2025
 * Experienced with full-stack applications, computer vision, embedded systems, and cloud deployment
