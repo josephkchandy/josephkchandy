@@ -37,13 +37,13 @@ My primary contributions focused on the **handwriting-analysis** and **eye-movem
 
 [View Repository](https://github.com/josephkchandy/disability-screener)
 
-### Borewell Rescue Robot
+### AI-Driven UAV Swarm for Mosquito Surveillance
 
-An ESP32-based rescue prototype designed for operation in narrow borewells.
+An ongoing project combining UAV surveillance and computer vision to identify potential mosquito breeding sites from aerial imagery.
 
-* Integrated live video monitoring and remote motor control
-* Used an L298N motor driver with a geared motor
-* Developed a winch-and-rope mechanism for controlled lowering and retrieval
+* Leading the perception module for detecting potential breeding habitats
+* Trained and compared a YOLOv9 baseline with a DCCSP-enhanced model
+* Developing the detection pipeline for integration with swarm coordination and spatial risk mapping
 
 
 ## Technologies
